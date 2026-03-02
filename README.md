@@ -37,7 +37,7 @@ This project is intentionally structured as a technical paper and lab documentat
 | Part | Topic |
 |-------|--------|
 | 01 | [Proxmox Installation & Initial Configuration](docs/01-installation.md) |
-| 02 | Storage Architecture & Layout |
+| 02 | [Network Architecture & Layout](docs/02-network-layout.md) |
 | 03 | VM Templates & Standards |
 | 04 | Active Directory Deployment |
 | 05 | Group Policy & Security Hardening |
